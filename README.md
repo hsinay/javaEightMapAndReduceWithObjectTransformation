@@ -1,1 +1,1 @@
-# javaEightMapAndReduceWithObjectTransformation
+# JavaEightMapAndReduceWithObjectTransformation
